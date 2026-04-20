@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hp/Documents/stats_S9/mlruns/882378915155391531/2ec6827f06ce49ef9845c2a80c5a7599/artifacts
+end_time: 1776094260091
+entry_point_name: ''
+experiment_id: '882378915155391531'
+lifecycle_stage: active
+run_id: 2ec6827f06ce49ef9845c2a80c5a7599
+run_name: Light Gradient Boosting Machine
+run_uuid: 2ec6827f06ce49ef9845c2a80c5a7599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776094260076
+status: 3
+tags: []
+user_id: hp

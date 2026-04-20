@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hp/Documents/stats_S9/mlruns/882378915155391531/71d9fc01589142aabf84a4acea739908/artifacts
+end_time: 1776094260280
+entry_point_name: ''
+experiment_id: '882378915155391531'
+lifecycle_stage: active
+run_id: 71d9fc01589142aabf84a4acea739908
+run_name: Random Forest Regressor
+run_uuid: 71d9fc01589142aabf84a4acea739908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776094260232
+status: 3
+tags: []
+user_id: hp

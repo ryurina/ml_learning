@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hp/Documents/stats_S9/mlruns/882378915155391531/a3d9b0153f1846d09c1215215ddc2fc5/artifacts
+end_time: 1776094259454
+entry_point_name: ''
+experiment_id: '882378915155391531'
+lifecycle_stage: active
+run_id: a3d9b0153f1846d09c1215215ddc2fc5
+run_name: Huber Regressor
+run_uuid: a3d9b0153f1846d09c1215215ddc2fc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776094259438
+status: 3
+tags: []
+user_id: hp

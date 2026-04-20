@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hp/Documents/stats_S9/mlruns/882378915155391531/a4dc1e1f2944453bbce3a7699d5ba93f/artifacts
+end_time: 1776094261164
+entry_point_name: ''
+experiment_id: '882378915155391531'
+lifecycle_stage: active
+run_id: a4dc1e1f2944453bbce3a7699d5ba93f
+run_name: Extra Trees Regressor
+run_uuid: a4dc1e1f2944453bbce3a7699d5ba93f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776094261116
+status: 3
+tags: []
+user_id: hp

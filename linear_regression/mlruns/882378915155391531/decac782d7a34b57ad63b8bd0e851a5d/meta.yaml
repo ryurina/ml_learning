@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hp/Documents/stats_S9/mlruns/882378915155391531/decac782d7a34b57ad63b8bd0e851a5d/artifacts
+end_time: 1776094262262
+entry_point_name: ''
+experiment_id: '882378915155391531'
+lifecycle_stage: active
+run_id: decac782d7a34b57ad63b8bd0e851a5d
+run_name: Dummy Regressor
+run_uuid: decac782d7a34b57ad63b8bd0e851a5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776094262218
+status: 3
+tags: []
+user_id: hp

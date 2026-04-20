@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hp/Documents/stats_S9/mlruns/882378915155391531/74d7dab45cdb42ea9a0cdd59ad579f67/artifacts
+end_time: 1776094259571
+entry_point_name: ''
+experiment_id: '882378915155391531'
+lifecycle_stage: active
+run_id: 74d7dab45cdb42ea9a0cdd59ad579f67
+run_name: Bayesian Ridge
+run_uuid: 74d7dab45cdb42ea9a0cdd59ad579f67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776094259551
+status: 3
+tags: []
+user_id: hp

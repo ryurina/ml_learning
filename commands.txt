@@ -1,0 +1,16 @@
+source ~/envs/ds/bin/activate
+pip install ipykernel
+python -m ipykernel install --user --name=ds --display-name "Python 3.11 (ds)"
+
+
+
+
+Packages:
+pip install pycaret xgboost lightgbm catboost
+pip install numpy pandas scikit-learn matplotlib seaborn plotly
+pip install scipy statsmodels shap optuna mlflow
+pip install jupyter jupyterlab notebook ipykernel
+pip install ipywidgets
+pip install mlflow
+
+jupyter nbextension enable --py widgetsnbextension

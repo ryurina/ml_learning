@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hp/Documents/stats_S9/mlruns/882378915155391531/636a9ae671fc4e8eabc62beaa7d0dd6a/artifacts
+end_time: 1776094259258
+entry_point_name: ''
+experiment_id: '882378915155391531'
+lifecycle_stage: active
+run_id: 636a9ae671fc4e8eabc62beaa7d0dd6a
+run_name: Lasso Least Angle Regression
+run_uuid: 636a9ae671fc4e8eabc62beaa7d0dd6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776094259243
+status: 3
+tags: []
+user_id: hp

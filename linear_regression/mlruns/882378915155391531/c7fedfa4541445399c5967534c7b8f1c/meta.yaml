@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hp/Documents/stats_S9/mlruns/882378915155391531/c7fedfa4541445399c5967534c7b8f1c/artifacts
+end_time: 1776094261384
+entry_point_name: ''
+experiment_id: '882378915155391531'
+lifecycle_stage: active
+run_id: c7fedfa4541445399c5967534c7b8f1c
+run_name: Orthogonal Matching Pursuit
+run_uuid: c7fedfa4541445399c5967534c7b8f1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776094261339
+status: 3
+tags: []
+user_id: hp
